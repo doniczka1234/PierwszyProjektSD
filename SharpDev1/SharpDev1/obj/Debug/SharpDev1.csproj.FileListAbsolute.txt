@@ -1,0 +1,7 @@
+C:\Users\krzys\source\repos\SharpDev1\SharpDev1\bin\Debug\SharpDev1.exe.config
+C:\Users\krzys\source\repos\SharpDev1\SharpDev1\bin\Debug\SharpDev1.exe
+C:\Users\krzys\source\repos\SharpDev1\SharpDev1\bin\Debug\SharpDev1.pdb
+C:\Users\krzys\source\repos\SharpDev1\SharpDev1\obj\Debug\SharpDev1.csprojAssemblyReference.cache
+C:\Users\krzys\source\repos\SharpDev1\SharpDev1\obj\Debug\SharpDev1.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\SharpDev1\SharpDev1\obj\Debug\SharpDev1.exe
+C:\Users\krzys\source\repos\SharpDev1\SharpDev1\obj\Debug\SharpDev1.pdb
